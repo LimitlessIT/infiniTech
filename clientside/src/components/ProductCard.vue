@@ -31,7 +31,6 @@ export default {
     height:max-content;
     flex-direction: column;
     align-items: center;
-    padding: 0px 25px;
 
     width: 10em;
     height:20em;
@@ -74,7 +73,7 @@ export default {
   }
 .newprice{
     font-weight:bold;
-    color:#03a;
+    color:black;
     margin: 10px 20px;
 }
 </style>
